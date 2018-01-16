@@ -1,0 +1,7 @@
+{
+  "name": "probot-playground",
+  "version": "1.0.0",
+  "scripts": {
+    "prepare": "echo prepare-run && touch ./test.js"
+  }
+}
